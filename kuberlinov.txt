@@ -2,8 +2,8 @@ Hey!
 
 Let me introduce myself!
 
-My name is Basan Kuberlinov!
+My name is Basan. 
 
-I am currently learning web development at the Techlabs Berlin
+I am currently learning! And this is not working! How do I make a conflic!
 
 This is to create the conflict
