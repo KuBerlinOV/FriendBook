@@ -3,3 +3,5 @@ Hey!
 Let me introduce myself!
 
 My name is Basan Kuberlinov!
+
+I am currently learning web development at the Techlabs Berlin
